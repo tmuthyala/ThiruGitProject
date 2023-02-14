@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This script is used to login to application</description>
+   <name>TC_Login</name>
+   <tag>@Smoke,@Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ac0f0382-6cbc-478d-9728-10e22ff05eac</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ce5903fe-a090-41c4-ada7-2fa99cbb8883</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/eKartLogin</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ce5903fe-a090-41c4-ada7-2fa99cbb8883</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>9f8b4b66-1c93-4179-8ed4-ffa686f2b266</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ce5903fe-a090-41c4-ada7-2fa99cbb8883</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>f380e0f6-7aa3-4052-99c0-5af34f4564c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f8b4b66-1c93-4179-8ed4-ffa686f2b266</id>
+      <masked>false</masked>
+      <name>uname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f380e0f6-7aa3-4052-99c0-5af34f4564c0</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_English</name>
+   <tag></tag>
+   <elementGuidId>9a6cfda1-04d0-4e8a-9f26-a8715b9fbd93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='msdd']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#msdd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>224e335a-e1c3-417e-97a5-e23f6b76034b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-autocomplete-multiselect ui-state-default ui-widget</value>
+      <webElementGuid>53a13d31-2d4d-414f-adc0-8f100283a0e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>msdd</value>
+      <webElementGuid>87a33c3e-13ed-4216-9dff-3337936fd41b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    
+                                English</value>
+      <webElementGuid>751bd990-ad9f-45c0-9200-91e95ec547a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;msdd&quot;)</value>
+      <webElementGuid>bd669e09-e218-4581-ba5c-e63d8654f778</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='msdd']</value>
+      <webElementGuid>678762eb-3ca4-4283-b09c-5cc984f4032f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basicBootstrapForm']/div[7]/div/multi-select/div</value>
+      <webElementGuid>9d076fe8-fb6c-4bbc-9888-c5dc53f3cb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Languages'])[1]/following::div[2]</value>
+      <webElementGuid>2a550157-8cd9-41d7-a604-374049bbaf24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hockey'])[1]/following::div[3]</value>
+      <webElementGuid>af324705-b3d2-4a77-8a1f-804280258145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arabic'])[1]/preceding::div[2]</value>
+      <webElementGuid>c905812a-33ec-4366-8dc9-84ba61593194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//multi-select/div</value>
+      <webElementGuid>a8603cae-4e6e-41c2-9100-8f628563feaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'msdd' and (text() = '
+                                    
+                                English' or . = '
+                                    
+                                English')]</value>
+      <webElementGuid>5b3cc5ce-a80d-4685-a1c0-c5bf31be7359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

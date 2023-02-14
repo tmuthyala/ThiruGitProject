@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Skills                       _fcf818</name>
+   <tag></tag>
+   <elementGuidId>f06e0abb-62cc-4190-8d32-f4213d063ed4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Skills']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Skills</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6817e113-d926-45b7-beb4-5c8f427e5704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9086f0f6-aff9-4c37-8bf3-f31698835556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>6a83ec31-f223-4846-a0b9-637f2c8ffdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Skills</value>
+      <webElementGuid>ea0597b3-6606-4e12-a830-4dca70abc73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>Skill</value>
+      <webElementGuid>0c33cf22-3315-49f9-ba1b-fd1b1cbd72d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-init</name>
+      <type>Main</type>
+      <value>Skill=''</value>
+      <webElementGuid>eacb4c4b-e5ad-4b6c-812d-41fb7635974c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Select Skills
+                            Adobe InDesignAdobe PhotoshopAnalyticsAndroidAPIsArt DesignAutoCADBackup ManagementCC++CertificationsClient ServerClient SupportConfigurationContent ManagmentContent Management Systems (CMS)Corel DrawCorel Word PerfectCSSData AnalyticsDesktop PublishingDesignDiagnosticsDocumentationEnd User SupportEmailEngineeringExcelFileMaker ProFortranHTMLImplementationInstallationInternetiOSiPhoneLinuxJavaJavascriptMacMatlabMayaMicrosoft ExcelMicrosoft OfficeMicrosoft OutlookMicrosoft PublisherMicrosoft WordMicrosoft VisualMobileMySQLNetworksOpen Source SoftwareOraclePerlPHPPresentationsProcessingProgrammingPT ModelerPythonQuickBooksRubyShadeSoftwareSpreadsheetSQLSupportSystems AdministrationTech SupportTroubleshootingUnixUI / UXWeb Page DesignWindowsWord ProcessingXMLXHTML</value>
+      <webElementGuid>eb698766-86f2-47b4-8f4a-fd36863c8599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Skills&quot;)</value>
+      <webElementGuid>c0f76a0a-510b-4e79-b1ed-93a0d48ecc0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Skills']</value>
+      <webElementGuid>96dc4355-2eb1-4806-81b2-0fdbc530df7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basicBootstrapForm']/div[8]/div/select</value>
+      <webElementGuid>2cdca6eb-75de-4191-8e38-dfbf352e0438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::select[1]</value>
+      <webElementGuid>492e785a-927d-4618-ae1a-782fcec1e8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vietnamese'])[1]/following::select[1]</value>
+      <webElementGuid>5344a853-6577-47ca-8dc6-3e521e3be850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country*'])[1]/preceding::select[1]</value>
+      <webElementGuid>2c9122de-23c9-4db5-bd54-d10dc5684e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Country :'])[1]/preceding::select[2]</value>
+      <webElementGuid>ce2ceb0f-c654-4530-8e77-5c30b2fa1152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7b4488c1-43d8-4a0d-906c-6d70765ae623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@type = 'text' and @id = 'Skills' and (text() = '
+                                Select Skills
+                            Adobe InDesignAdobe PhotoshopAnalyticsAndroidAPIsArt DesignAutoCADBackup ManagementCC++CertificationsClient ServerClient SupportConfigurationContent ManagmentContent Management Systems (CMS)Corel DrawCorel Word PerfectCSSData AnalyticsDesktop PublishingDesignDiagnosticsDocumentationEnd User SupportEmailEngineeringExcelFileMaker ProFortranHTMLImplementationInstallationInternetiOSiPhoneLinuxJavaJavascriptMacMatlabMayaMicrosoft ExcelMicrosoft OfficeMicrosoft OutlookMicrosoft PublisherMicrosoft WordMicrosoft VisualMobileMySQLNetworksOpen Source SoftwareOraclePerlPHPPresentationsProcessingProgrammingPT ModelerPythonQuickBooksRubyShadeSoftwareSpreadsheetSQLSupportSystems AdministrationTech SupportTroubleshootingUnixUI / UXWeb Page DesignWindowsWord ProcessingXMLXHTML' or . = '
+                                Select Skills
+                            Adobe InDesignAdobe PhotoshopAnalyticsAndroidAPIsArt DesignAutoCADBackup ManagementCC++CertificationsClient ServerClient SupportConfigurationContent ManagmentContent Management Systems (CMS)Corel DrawCorel Word PerfectCSSData AnalyticsDesktop PublishingDesignDiagnosticsDocumentationEnd User SupportEmailEngineeringExcelFileMaker ProFortranHTMLImplementationInstallationInternetiOSiPhoneLinuxJavaJavascriptMacMatlabMayaMicrosoft ExcelMicrosoft OfficeMicrosoft OutlookMicrosoft PublisherMicrosoft WordMicrosoft VisualMobileMySQLNetworksOpen Source SoftwareOraclePerlPHPPresentationsProcessingProgrammingPT ModelerPythonQuickBooksRubyShadeSoftwareSpreadsheetSQLSupportSystems AdministrationTech SupportTroubleshootingUnixUI / UXWeb Page DesignWindowsWord ProcessingXMLXHTML')]</value>
+      <webElementGuid>9833118a-0482-4c25-a99d-8697e9da25b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
